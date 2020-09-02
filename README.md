@@ -6,8 +6,10 @@ Your very own todo list with python3
 tkinter is pre-built in Python3.
 
 ## Usage
-''' python
+''' 
+python
 from tkinter import * 
+
 '''
 
 - click the add button to add items to your list
